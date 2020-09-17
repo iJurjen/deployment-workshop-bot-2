@@ -5,6 +5,8 @@
 - good morning
 - good evening
 - hey there
+- yo
+- Whatup
 
 ## intent:goodbye
 - bye
@@ -29,6 +31,7 @@
 - don't like that
 - no way
 - not really
+- No
 
 ## intent:mood_great
 - perfect
@@ -52,6 +55,7 @@
 - not very good
 - extremely sad
 - so sad
+- I need a coffee
 
 ## intent:bot_challenge
 - are you a bot?
